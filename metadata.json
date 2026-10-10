@@ -1,0 +1,6 @@
+{
+  "name": "VoltWatch - Power Outage & Load Shedding Management System",
+  "description": "Enterprise-grade smart grid monitoring, load shedding schedules, outage incident reporting with verification tracking, and Stripe-powered premium emergency alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
